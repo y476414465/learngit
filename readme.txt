@@ -1,3 +1,4 @@
+this a word;
 this new line;
 $ cat readme.txt
 Git is a distributed version control system.
