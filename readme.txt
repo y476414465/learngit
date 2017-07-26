@@ -1,5 +1,5 @@
-this a word;
-this new line;
+this a word222;
+this new line s;
 $ cat readme.txt
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
